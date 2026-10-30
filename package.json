@@ -1,0 +1,23 @@
+{
+  "name": "marc_daily_priority",
+  "version": "1.0.0",
+  "description": "Daily priority agent hanlder called Mark.",
+  "keywords": [
+    "[agent",
+    "priority",
+    "telegram",
+    "bot",
+    "AI]"
+  ],
+  "license": "MIT",
+  "author": "Adrian Lesko",
+  "type": "module",
+  "main": "server.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "telegraf": "^4.16.3"
+  }
+}
